@@ -21,3 +21,6 @@ gem "sqlite3", "~> 1.4"
 gem "require_all"
 
 gem "pry"
+
+#added the faker file for seeding
+gem "faker"
